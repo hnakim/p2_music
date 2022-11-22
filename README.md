@@ -2,7 +2,7 @@
 
 Building an ETL out of Spotify API. This ETL program will extract data from my Spotify Account with Spotipy Python library. Specifically, we are interested in extracting our daily listening history, and the daily top 50 songs in United States. We then will transform the data using python to clean it up, create unique identifiers, and load it into a PostgreSQL database. The loading piece of the ETL is a PostgreSQL database that is on our local machine. From there we utilized SQL to query the data and python to check for validations, preform transformation on the raw data exteracted from the API (json), creating DataFrames, and loading the data utlizing the SQLAlchemy ORM.
 
-![ETL-Project](https://user-images.githubusercontent.com/111074755/203250605-3798daa6-19d1-4ec0-a5a7-16cb3ec9c2ee.png)
+![ETL-Project (1)](https://user-images.githubusercontent.com/111074755/203250832-d047c9cf-59a5-4486-ae5c-725e486870ae.png)
 
 ## Extracting: Spotify API using Spotipy Library
 
