@@ -12,5 +12,3 @@ The final database will be loaded onto a PostgreSQL server using SQLAlchemy. We 
 
 ![My Image](Images/spotify_tables_ERD.png)
 
-
-## Automation: Apache Airflow
