@@ -1,5 +1,0 @@
-spotify_client_id="8ed5d3c94d124933b640c43f7189aefc"
-spotify_client_secret="fc1cf84759874185a4ad515b91594d40"
-spotify_redirect_url="http://localhost"
-db_username="postgres"
-db_password="password"
