@@ -15,5 +15,5 @@ We extracted the Spotify data using Python to transform the data with Pandas. We
 We created a database on local computer using Postgresql to store all of the Spotify data that we are ingesting with this ETL process. We created four tables and the sql code for the creation of these tables can be found in the SQL file. To load the data into PostgreSQL we use the pandas method .to_sql to load the data into the tables. Please see the ERD below for reference.
 
 
-![My Image](Images/spotify_tables_ERD.png)
+![drawSQL-export-2022-11-22_00_23](https://user-images.githubusercontent.com/111074755/203240741-46398b73-9ab6-46a8-bd00-a8706da56ee7.png)
 
